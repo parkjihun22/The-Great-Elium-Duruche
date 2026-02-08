@@ -217,6 +217,32 @@ const Main = () => {
 
   return (
     <>
+          <Helmet>
+        <title>시흥 거모지구 대방 엘리움 더 루체</title>
+
+        <meta
+          name="description"
+          content="시흥 거모지구 대방 엘리움 더 루체 분양중. 모집공고, 자금조달계획서, 평면도(84·122), E-모델하우스(VR), 방문예약 및 관심고객등록을 공식 홈페이지에서 확인하세요."
+        />
+
+        <link rel="canonical" href="https://www.dwbsongs.com/" />
+        <meta name="robots" content="index,follow" />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체" />
+        <meta
+          property="og:description"
+          content="모집공고·평면도·E-모델하우스·방문예약을 공식 홈페이지에서 확인하세요."
+        />
+        <meta property="og:url" content="https://www.dwbsongs.com/" />
+        <meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+      </Helmet>
+
 
       {!isMobile ? (
         // PC 버전
@@ -650,7 +676,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                도안의 중심으로 사는
+                거모지구의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
