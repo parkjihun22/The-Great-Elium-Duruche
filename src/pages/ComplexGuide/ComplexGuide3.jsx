@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="시흥 거모지구 대방 엘리움 더 루체의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 일상을 더 풍성하게 만드는 다양한 편의시설을 만나보세요."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="피트니스·실내골프·작은도서관·라운지 등 다채로운 커뮤니티로 일상의 가치를 높이는 시흥 거모지구 대방 엘리움 더 루체."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

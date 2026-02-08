@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "시흥 거모지구 대방 엘리움 더 루체", url: "https://www.dwbsongs.com/" },
+  { name: "시흥 거모지구 대방 엘리움 더 루체", url: "https://www.cssdesign.kr/" },
 ];
 
 const Footer = () => {

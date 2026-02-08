@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
         name="description"
         content="시흥 거모지구 대방 엘리움 더 루체의 프리미엄을 확인하세요. 총 682세대 쾌적한 단지 구성, 거모지구 중심 입지, 확장되는 교통망과 생활 인프라, 자연과 어우러진 주거 환경으로 완성되는 가치."
       />
-      <link rel="canonical" href="https://www.dwbsongs.com/LocationEnvironment/primium" />
+      <link rel="canonical" href="https://www.cssdesign.kr/LocationEnvironment/primium" />
       <meta name="robots" content="index,follow" />
     </Helmet>
 

@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="대방산업개발의 주거 브랜드 ELIUM(엘리움)의 철학과 가치를 소개합니다. 세련된 디자인과 실용적인 공간 설계, 신뢰의 품질 기준으로 완성되는 시흥 거모지구 대방 엘리움 더 루체의 프리미엄 라이프를 만나보세요."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/Brand/intro" />
+  <link rel="canonical" href="https://www.cssdesign.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="대방산업개발 주거 브랜드 ELIUM(엘리움) 소개. 일상에 완성도를 더하는 설계와 디테일, 쾌적한 단지 계획으로 시흥 거모지구 대방 엘리움 더 루체의 새로운 주거 기준을 제시합니다."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/Brand/intro" />
-  <meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.cssdesign.kr/Brand/intro" />
+  <meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

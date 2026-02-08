@@ -50,7 +50,7 @@ const Brand2 = () => {
     name="description"
     content="시흥 거모지구 대방 엘리움 더 루체 홍보영상으로 단지 설계와 세대 구성, 프리미엄 커뮤니티, 거모지구의 생활 인프라와 미래가치를 생생하게 확인하세요."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/Brand/video" />
+  <link rel="canonical" href="https://www.cssdesign.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
     property="og:description"
     content="시흥 거모지구 대방 엘리움 더 루체 홍보영상: 감각적인 단지 설계와 커뮤니티, 거모지구의 생활 인프라와 확장되는 교통 프리미엄을 영상으로 만나보세요."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/Brand/video" />
-  <meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.cssdesign.kr/Brand/video" />
+  <meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
     name="twitter:description"
     content="단지 설계와 커뮤니티, 거모지구의 생활 인프라와 미래가치를 홍보영상으로 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
+  <meta name="twitter:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

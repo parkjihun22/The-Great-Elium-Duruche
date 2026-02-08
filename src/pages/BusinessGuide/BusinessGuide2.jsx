@@ -56,7 +56,7 @@ const BusinessGuide2 = () => {
             name="description"
             content="시흥 거모지구 대방 엘리움 더 루체 분양(청약) 일정을 한눈에 확인하세요. 특별공급·1·2순위 접수, 당첨자 발표 및 정당계약 등 주요 일정을 안내합니다."
           />
-          <link rel="canonical" href="https://www.dwbsongs.com/BusinessGuide/plan" />
+          <link rel="canonical" href="https://www.cssdesign.kr/BusinessGuide/plan" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

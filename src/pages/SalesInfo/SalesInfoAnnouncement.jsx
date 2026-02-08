@@ -77,7 +77,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="시흥 거모지구 대방 엘리움 더 루체 모집공고를 한눈에 확인하세요. 공급 세대수·공급면적·분양가, 청약 일정·자격, 당첨자 발표·정당계약 및 유의사항을 안내합니다."
         />
-        <link rel="canonical" href="https://www.dwbsongs.com/SalesInfo/announcement" />
+        <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/announcement" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 
