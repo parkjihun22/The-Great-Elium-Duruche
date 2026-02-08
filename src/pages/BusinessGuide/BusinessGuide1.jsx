@@ -16,13 +16,13 @@ import { Helmet } from "react-helmet-async";
 
 const projectData = [
   { label: '사업명', value: '시흥 거모지구 대방 엘리움 더 루체' },
-  { label: '사업위치', value: '인천광역시 서구 마전동 검단신도시 AA32블록' },
+  { label: '사업위치', value: '경기도 시흥시 거모지구 일원' },
   { label: '대지면적', value: '추후 공지' },
   { label: '건축면적', value: '추후 공지' },
   { label: '연면적', value: '추후 공지' },
   { label: '용적률', value: '추후 공지' },
-  { label: '건축규모', value: '지하 3층 ~ 지상 15층, 총 11개동' },
-  { label: '세대수', value: '총 669세대' },
+  { label: '건축규모', value: '지하 2층 ~ 지상 23층' },
+  { label: '세대수', value: '총 682세대' },
 ];
 
   
