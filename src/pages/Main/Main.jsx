@@ -218,7 +218,7 @@ const Main = () => {
   return (
     <>
           <Helmet>
-        <title>시흥 거모지구 대방 엘리움 더 루체</title>
+        <title>▪시흥 거모지구 대방엘리움</title>
 
         <meta
           name="description"
