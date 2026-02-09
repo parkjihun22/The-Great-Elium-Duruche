@@ -52,21 +52,21 @@ const ComplexGuide1 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 페이지별 메타 */}
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 단지배치도</title>
+  <title>시흥 거모지구 대방 엘리움 - 단지배치도</title>
   <meta
     name="description"
-    content="시흥 거모지구 대방 엘리움 더 루체 단지배치도를 통해 동별 위치, 조경과 커뮤니티, 주차·보행 동선 설계를 확인하세요. 쾌적한 생활을 고려한 단지 배치를 안내합니다."
+    content="시흥 거모지구 대방 엘리움 단지배치도를 통해 동별 위치, 조경과 커뮤니티, 주차·보행 동선 설계를 확인하세요. 쾌적한 생활을 고려한 단지 배치를 안내합니다."
   />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 단지배치도" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 단지배치도" />
   <meta
     property="og:description"
-    content="동·호 배치, 조경·커뮤니티, 주차·보행 동선까지 쾌적함을 높인 시흥 거모지구 대방 엘리움 더 루체 단지 배치를 확인하세요."
+    content="동·호 배치, 조경·커뮤니티, 주차·보행 동선까지 쾌적함을 높인 시흥 거모지구 대방 엘리움 단지 배치를 확인하세요."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/intro" />
   <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
@@ -75,10 +75,10 @@ const ComplexGuide1 = () => {
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - 단지배치도" />
+  <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - 단지배치도" />
   <meta
     name="twitter:description"
-    content="조경·커뮤니티·주차·보행 동선을 고려한 시흥 거모지구 대방 엘리움 더 루체 단지배치도 안내."
+    content="조경·커뮤니티·주차·보행 동선을 고려한 시흥 거모지구 대방 엘리움 단지배치도 안내."
   />
   <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
   <meta name="twitter:url" content="https://www.cssdesign.kr/ComplexGuide/intro" />
@@ -88,10 +88,10 @@ const ComplexGuide1 = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "시흥 거모지구 대방 엘리움 더 루체 - 단지배치도",
+      "name": "시흥 거모지구 대방 엘리움 - 단지배치도",
       "url": "https://www.cssdesign.kr/ComplexGuide/intro",
       "description":
-        "시흥 거모지구 대방 엘리움 더 루체 단지배치도: 동별 위치, 조경 계획, 커뮤니티 시설과 주차·보행 동선 설계를 확인하세요.",
+        "시흥 거모지구 대방 엘리움 단지배치도: 동별 위치, 조경 계획, 커뮤니티 시설과 주차·보행 동선 설계를 확인하세요.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://www.cssdesign.kr/img/og/complex.jpg",
@@ -116,17 +116,17 @@ const ComplexGuide1 = () => {
 
 {/* SEO 최적화 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 단지배치도
+  시흥 거모지구 대방 엘리움 - 단지배치도
 </h1>
 <p className={styles.screenReaderOnly}>
-  단지 배치도 페이지는 시흥 거모지구 대방 엘리움 더 루체의 전체 단지 구성도를 제공합니다.
+  단지 배치도 페이지는 시흥 거모지구 대방 엘리움의 전체 단지 구성도를 제공합니다.
   다수 동 배치와 녹지·조경 계획, 커뮤니티 시설 위치와 주차·보행 동선 계획을
   시각적으로 안내하여 쾌적한 단지 생활을 돕습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>자연과 동선까지 고려한 설계</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체, 쾌적함으로 완성됩니다.</div>
+  <div>시흥 거모지구 대방 엘리움, 쾌적함으로 완성됩니다.</div>
 </div>
 
 
@@ -134,7 +134,7 @@ const ComplexGuide1 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="시흥 거모지구 대방 엘리움 더 루체단지배치도-image1"
+				alt="시흥 거모지구 대방 엘리움단지배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

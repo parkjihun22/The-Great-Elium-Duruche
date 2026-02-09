@@ -54,10 +54,10 @@ const ComplexGuide1 = () => {
 
 
 <Helmet>
-          <title>시흥 거모지구 대방 엘리움 더 루체 - 인지세 납부 안내</title>
+          <title>시흥 거모지구 대방 엘리움 - 인지세 납부 안내</title>
           <meta
             name="description"
-            content="시흥 거모지구 대방 엘리움 더 루체 분양(계약) 시 필요한 인지세 납부 기준과 절차, 금액 및 유의사항을 한눈에 확인하세요."
+            content="시흥 거모지구 대방 엘리움 분양(계약) 시 필요한 인지세 납부 기준과 절차, 금액 및 유의사항을 한눈에 확인하세요."
           />
           <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
@@ -71,10 +71,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
               <h1 className={styles.screenReaderOnly}>
-          시흥 거모지구 대방 엘리움 더 루체 - 인지세 안내
+          시흥 거모지구 대방 엘리움 - 인지세 안내
         </h1>
         <p className={styles.screenReaderOnly}>
-          시흥 거모지구 대방 엘리움 더 루체의 인지세 안내 페이지는
+          시흥 거모지구 대방 엘리움의 인지세 안내 페이지는
           분양 계약과 관련된 세금 정보를 제공합니다.
           인지세는 계약서 작성 시 부과되는 세금으로,
           사전에 정확히 파악하고 준비하는 것이 중요합니다.
@@ -85,7 +85,7 @@ const ComplexGuide1 = () => {
 
         <div className={styles.textBox}>
           <div>계약 전 인지세 안내를 확인하세요</div>
-          <div>시흥 거모지구 대방 엘리움 더 루체, 계약 준비의 시작</div>
+          <div>시흥 거모지구 대방 엘리움, 계약 준비의 시작</div>
         </div>
 
 
@@ -94,7 +94,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="시흥 거모지구 대방 엘리움 더 루체인지세안내-image1"
+        alt="시흥 거모지구 대방 엘리움인지세안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 

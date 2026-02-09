@@ -45,28 +45,28 @@ const Brand2 = () => {
 	return (
 		<div className={styles.container}>
 <Helmet>
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 홍보영상</title>
+  <title>시흥 거모지구 대방 엘리움 - 홍보영상</title>
   <meta
     name="description"
-    content="시흥 거모지구 대방 엘리움 더 루체 홍보영상으로 단지 설계와 세대 구성, 프리미엄 커뮤니티, 거모지구의 생활 인프라와 미래가치를 생생하게 확인하세요."
+    content="시흥 거모지구 대방 엘리움 홍보영상으로 단지 설계와 세대 구성, 프리미엄 커뮤니티, 거모지구의 생활 인프라와 미래가치를 생생하게 확인하세요."
   />
   <link rel="canonical" href="https://www.cssdesign.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 홍보영상" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 홍보영상" />
   <meta
     property="og:description"
-    content="시흥 거모지구 대방 엘리움 더 루체 홍보영상: 감각적인 단지 설계와 커뮤니티, 거모지구의 생활 인프라와 확장되는 교통 프리미엄을 영상으로 만나보세요."
+    content="시흥 거모지구 대방 엘리움 홍보영상: 감각적인 단지 설계와 커뮤니티, 거모지구의 생활 인프라와 확장되는 교통 프리미엄을 영상으로 만나보세요."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/Brand/video" />
   <meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - 홍보영상" />
+  <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - 홍보영상" />
   <meta
     name="twitter:description"
     content="단지 설계와 커뮤니티, 거모지구의 생활 인프라와 미래가치를 홍보영상으로 확인하세요."
@@ -83,11 +83,11 @@ const Brand2 = () => {
 
 {/* SEO 최적화용 H1 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 홍보영상
+  시흥 거모지구 대방 엘리움 - 홍보영상
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체의 홍보영상을 통해 단지 설계와 세대 구성,
+  시흥 거모지구 대방 엘리움의 홍보영상을 통해 단지 설계와 세대 구성,
   프리미엄 커뮤니티 공간과 라이프스타일을 확인하세요.
   거모지구의 쾌적한 주거 환경과 확장되는 교통·생활 인프라까지,
   완성도 높은 주거 가치를 영상으로 만나보실 수 있습니다.
@@ -95,7 +95,7 @@ const Brand2 = () => {
 
 <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
   <div>거모지구의 새로운 주거 기준</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체가 영상으로 먼저 찾아옵니다.</div>
+  <div>시흥 거모지구 대방 엘리움가 영상으로 먼저 찾아옵니다.</div>
 </div>
 
 

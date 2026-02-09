@@ -65,13 +65,13 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        시흥 거모지구 대방 엘리움 더 루체- 홍보영상
+        시흥 거모지구 대방 엘리움- 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
       <div className={styles.textBox}>
   <div>검단신도시의 새로운 주거 기준</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체가 자부심으로 완성됩니다.</div>
+  <div>시흥 거모지구 대방 엘리움가 자부심으로 완성됩니다.</div>
 </div>
 
       {/* 탭 메뉴 */}

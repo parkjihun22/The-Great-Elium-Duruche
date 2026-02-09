@@ -51,21 +51,21 @@ const ComplexGuide3 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 커뮤니티</title>
+  <title>시흥 거모지구 대방 엘리움 - 커뮤니티</title>
   <meta
     name="description"
-    content="시흥 거모지구 대방 엘리움 더 루체의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 일상을 더 풍성하게 만드는 다양한 편의시설을 만나보세요."
+    content="시흥 거모지구 대방 엘리움의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 일상을 더 풍성하게 만드는 다양한 편의시설을 만나보세요."
   />
   <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 커뮤니티" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 커뮤니티" />
   <meta
     property="og:description"
-    content="피트니스·실내골프·작은도서관·라운지 등 다채로운 커뮤니티로 일상의 가치를 높이는 시흥 거모지구 대방 엘리움 더 루체."
+    content="피트니스·실내골프·작은도서관·라운지 등 다채로운 커뮤니티로 일상의 가치를 높이는 시흥 거모지구 대방 엘리움."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/community" />
   <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
@@ -78,17 +78,17 @@ const ComplexGuide3 = () => {
 
 {/* SEO 최적화 H1 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 커뮤니티
+  시흥 거모지구 대방 엘리움 - 커뮤니티
 </h1>
 <p className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체의 커뮤니티 페이지에서는 단지 내 다양한 시설을 소개합니다.
+  시흥 거모지구 대방 엘리움의 커뮤니티 페이지에서는 단지 내 다양한 시설을 소개합니다.
   피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 편의시설을 통해
   입주민의 삶의 질을 높이고 더 나은 공동체 생활을 돕습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>일상을 더 풍성하게 만드는 커뮤니티</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체의 커뮤니티를 만나보세요.</div>
+  <div>시흥 거모지구 대방 엘리움의 커뮤니티를 만나보세요.</div>
 </div>
 
 
@@ -97,7 +97,7 @@ const ComplexGuide3 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="시흥 거모지구 대방 엘리움 더 루체커뮤니티 안내 -image1"
+				alt="시흥 거모지구 대방 엘리움커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

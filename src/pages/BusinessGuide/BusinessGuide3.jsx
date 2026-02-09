@@ -64,10 +64,10 @@ const BusinessGuide2 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 필수 메타 */}
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 계약안내문</title>
+  <title>시흥 거모지구 대방 엘리움 - 계약안내문</title>
   <meta
     name="description"
-    content="시흥 거모지구 대방 엘리움 더 루체 분양(청약) 계약을 위한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
+    content="시흥 거모지구 대방 엘리움 분양(청약) 계약을 위한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
   />
   <meta name="robots" content="index,follow" />
   <link
@@ -77,11 +77,11 @@ const BusinessGuide2 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 계약안내문" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 계약안내문" />
   <meta
     property="og:description"
-    content="시흥 거모지구 대방 엘리움 더 루체 계약서류 안내: 신분증·주민등록등본·인감증명서 등 필수 서류와 준비 절차, 유의사항을 확인하세요."
+    content="시흥 거모지구 대방 엘리움 계약서류 안내: 신분증·주민등록등본·인감증명서 등 필수 서류와 준비 절차, 유의사항을 확인하세요."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/BusinessGuide/documents" />
   <meta property="og:image" content="https://www.cssdesign.kr/Main1.png" />
@@ -94,11 +94,11 @@ const BusinessGuide2 = () => {
 
 {/* SEO 최적화 H1 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 계약안내문
+  시흥 거모지구 대방 엘리움 - 계약안내문
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  본 페이지는 시흥 거모지구 대방 엘리움 더 루체 분양(청약) 당첨 후
+  본 페이지는 시흥 거모지구 대방 엘리움 분양(청약) 당첨 후
   계약 체결을 위해 필요한 서류를 안내합니다.
   제출 서류 목록과 준비 방법, 제출 기한 및 유의사항을 확인하여
   원활하고 정확한 계약 진행에 도움을 드립니다.
@@ -106,14 +106,14 @@ const BusinessGuide2 = () => {
 
 <div className={styles.textBox}>
   <div>거모지구의 미래가치 위에</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체, 계약서류를 미리 준비하세요.</div>
+  <div>시흥 거모지구 대방 엘리움, 계약서류를 미리 준비하세요.</div>
 </div>
 
 
 
 
 			{/* 이미지에 isImageVisible 상태 적용 */}
-			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움 더 루체계약안내문-image1" />
+			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움계약안내문-image1" />
 
 
 

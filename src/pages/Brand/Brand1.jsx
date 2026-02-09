@@ -48,21 +48,21 @@ const Brand1 = () => {
     return (
         <div className={styles.container}>
 <Helmet>
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 브랜드 소개</title>
+  <title>시흥 거모지구 대방 엘리움 - 브랜드 소개</title>
   <meta
     name="description"
-    content="대방산업개발의 주거 브랜드 ELIUM(엘리움)의 철학과 가치를 소개합니다. 세련된 디자인과 실용적인 공간 설계, 신뢰의 품질 기준으로 완성되는 시흥 거모지구 대방 엘리움 더 루체의 프리미엄 라이프를 만나보세요."
+    content="대방산업개발의 주거 브랜드 ELIUM(엘리움)의 철학과 가치를 소개합니다. 세련된 디자인과 실용적인 공간 설계, 신뢰의 품질 기준으로 완성되는 시흥 거모지구 대방 엘리움의 프리미엄 라이프를 만나보세요."
   />
   <link rel="canonical" href="https://www.cssdesign.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 브랜드 소개" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 브랜드 소개" />
   <meta
     property="og:description"
-    content="대방산업개발 주거 브랜드 ELIUM(엘리움) 소개. 일상에 완성도를 더하는 설계와 디테일, 쾌적한 단지 계획으로 시흥 거모지구 대방 엘리움 더 루체의 새로운 주거 기준을 제시합니다."
+    content="대방산업개발 주거 브랜드 ELIUM(엘리움) 소개. 일상에 완성도를 더하는 설계와 디테일, 쾌적한 단지 계획으로 시흥 거모지구 대방 엘리움의 새로운 주거 기준을 제시합니다."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/Brand/intro" />
   <meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
@@ -77,11 +77,11 @@ const Brand1 = () => {
 
 {/* SEO용 H1 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 브랜드 소개
+  시흥 거모지구 대방 엘리움 - 브랜드 소개
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체는 대방산업개발의 주거 브랜드 ELIUM(엘리움)이 제안하는
+  시흥 거모지구 대방 엘리움는 대방산업개발의 주거 브랜드 ELIUM(엘리움)이 제안하는
   프리미엄 주거 단지입니다. 삶의 동선과 수납, 채광과 통풍까지 세심하게 고려한
   공간 설계와 감각적인 디자인, 신뢰할 수 있는 품질 기준을 바탕으로
   거모지구의 새로운 주거 기준을 제시합니다.
@@ -94,7 +94,7 @@ const Brand1 = () => {
 
 
 
-            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움 더 루체brand-Image1" />
+            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움brand-Image1" />
 
             <Footer />
         </div>

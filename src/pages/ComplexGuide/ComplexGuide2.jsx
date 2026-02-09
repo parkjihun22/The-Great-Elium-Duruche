@@ -52,21 +52,21 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>시흥 거모지구 대방 엘리움 더 루체 - 동·호수 배치</title>
+  <title>시흥 거모지구 대방 엘리움 - 동·호수 배치</title>
   <meta
     name="description"
-    content="시흥 거모지구 대방 엘리움 더 루체 동·호수 배치도를 통해 세대별 위치와 조망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요. 라인·스택 구성 및 코어 동선 정보를 한눈에 제공합니다."
+    content="시흥 거모지구 대방 엘리움 동·호수 배치도를 통해 세대별 위치와 조망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요. 라인·스택 구성 및 코어 동선 정보를 한눈에 제공합니다."
   />
   <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-  <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 동·호수 배치" />
+  <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+  <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 동·호수 배치" />
   <meta
     property="og:description"
-    content="세대별 위치와 조망·일조, 프라이버시를 고려한 시흥 거모지구 대방 엘리움 더 루체 동·호수 배치를 확인하세요. 라인·스택 구성과 코어 동선 안내."
+    content="세대별 위치와 조망·일조, 프라이버시를 고려한 시흥 거모지구 대방 엘리움 동·호수 배치를 확인하세요. 라인·스택 구성과 코어 동선 안내."
   />
   <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/detailintro" />
   <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
@@ -78,10 +78,10 @@ const ComplexGuide1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 동·호수 배치
+  시흥 거모지구 대방 엘리움 - 동·호수 배치
 </h1>
 <p className={styles.screenReaderOnly}>
-  본 페이지에서는 시흥 거모지구 대방 엘리움 더 루체의 동·호수 배치와 세대별 위치,
+  본 페이지에서는 시흥 거모지구 대방 엘리움의 동·호수 배치와 세대별 위치,
   라인·스택 구성, 코어(엘리베이터/계단) 동선 정보를 제공합니다.
   남향 위주 배치와 일조, 프라이버시 요소를 비교하여
   합리적인 주거 선택에 도움을 드립니다.
@@ -89,14 +89,14 @@ const ComplexGuide1 = () => {
 
 <div className={styles.textBox}>
   <div>조망과 동선을 세심하게 고려한 설계</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체, 주거의 완성도를 높입니다.</div>
+  <div>시흥 거모지구 대방 엘리움, 주거의 완성도를 높입니다.</div>
 </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="시흥 거모지구 대방 엘리움 더 루체호수배치도-image1"
+				alt="시흥 거모지구 대방 엘리움호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

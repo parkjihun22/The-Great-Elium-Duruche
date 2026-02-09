@@ -72,10 +72,10 @@ const ComplexGuide1 = () => {
 
       
 <Helmet>
-        <title>시흥 거모지구 대방 엘리움 더 루체 - 모집공고 안내</title>
+        <title>시흥 거모지구 대방 엘리움 - 모집공고 안내</title>
         <meta
           name="description"
-          content="시흥 거모지구 대방 엘리움 더 루체 모집공고를 한눈에 확인하세요. 공급 세대수·공급면적·분양가, 청약 일정·자격, 당첨자 발표·정당계약 및 유의사항을 안내합니다."
+          content="시흥 거모지구 대방 엘리움 모집공고를 한눈에 확인하세요. 공급 세대수·공급면적·분양가, 청약 일정·자격, 당첨자 발표·정당계약 및 유의사항을 안내합니다."
         />
         <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/announcement" />
         <meta name="robots" content="index,follow" />
@@ -88,17 +88,17 @@ const ComplexGuide1 = () => {
 
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        시흥 거모지구 대방 엘리움 더 루체 - 모집공고 안내
+        시흥 거모지구 대방 엘리움 - 모집공고 안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        본 페이지에서는 시흥 거모지구 대방 엘리움 더 루체의 입주자 모집공고 주요 사항을 안내합니다.
+        본 페이지에서는 시흥 거모지구 대방 엘리움의 입주자 모집공고 주요 사항을 안내합니다.
         공급 규모와 면적, 분양가, 청약 일정과 자격, 당첨자 발표 및 정당계약 일정,
         유의사항을 확인하여 청약을 정확하게 준비하세요.
       </p>
 
       <div className={styles.textBox}>
         <div>입주자 모집공고를 확인하세요</div>
-        <div>시흥 거모지구 대방 엘리움 더 루체</div>
+        <div>시흥 거모지구 대방 엘리움</div>
       </div>
 
 
@@ -106,7 +106,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="시흥 거모지구 대방 엘리움 더 루체모집공고안내-image1"
+        alt="시흥 거모지구 대방 엘리움모집공고안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
          />
       {/* 입주자 모집공고 PDF로 보기 버튼 */}

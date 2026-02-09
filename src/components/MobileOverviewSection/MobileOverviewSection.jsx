@@ -24,7 +24,7 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>시흥 거모지구 대방 엘리움 더 루체</span>
+          <span>시흥 거모지구 대방 엘리움</span>
         </li>
         <li>
           <strong>대지위치</strong>
@@ -77,7 +77,7 @@ const items = [
         <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
         <p className={styles.premiumSubtitle}>
           숲세권과 신도시 중심을 동시에 누리는<br />
-          시흥 거모지구 대방 엘리움 더 루체 프리미엄 라이프
+          시흥 거모지구 대방 엘리움 프리미엄 라이프
         </p>
       </div>
 

@@ -51,10 +51,10 @@ const BusinessGuide2 = () => {
     return (
         <div className={styles.container}>
         <Helmet>
-          <title>시흥 거모지구 대방 엘리움 더 루체 - 한시적 특별혜택</title>
+          <title>시흥 거모지구 대방 엘리움 - 한시적 특별혜택</title>
           <meta
             name="description"
-            content="시흥 거모지구 대방 엘리움 더 루체 분양(청약) 일정을 한눈에 확인하세요. 특별공급·1·2순위 접수, 당첨자 발표 및 정당계약 등 주요 일정을 안내합니다."
+            content="시흥 거모지구 대방 엘리움 분양(청약) 일정을 한눈에 확인하세요. 특별공급·1·2순위 접수, 당첨자 발표 및 정당계약 등 주요 일정을 안내합니다."
           />
           <link rel="canonical" href="https://www.cssdesign.kr/BusinessGuide/plan" />
           <meta name="robots" content="index,follow" />
@@ -67,21 +67,21 @@ const BusinessGuide2 = () => {
         <MenuBar contents={menuContents} />
 
         <h1 className={styles.screenReaderOnly}>
-          시흥 거모지구 대방 엘리움 더 루체 - 한시적 특별혜택
+          시흥 거모지구 대방 엘리움 - 한시적 특별혜택
         </h1>
         <p className={styles.screenReaderOnly}>
-          시흥 거모지구 대방 엘리움 더 루체의 분양(청약) 일정을 한곳에서 확인하세요.
+          시흥 거모지구 대방 엘리움의 분양(청약) 일정을 한곳에서 확인하세요.
           특별공급·1·2순위 접수부터 당첨자 발표, 정당계약까지
           단계별 분양 일정을 안내합니다.
         </p>
 
         <div className={styles.textBox}>
           <div>거모지구의 미래가치 위에</div>
-          <div>시흥 거모지구 대방 엘리움 더 루체, 한시적 특별혜택을 확인하세요.</div>
+          <div>시흥 거모지구 대방 엘리움, 한시적 특별혜택을 확인하세요.</div>
         </div>
 
             {/* ✅ 기존 이미지 부분 주석 처리하고 Ready 컴포넌트 표시 */}
-            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움 더 루체 한시적 특별혜택안내-image1" />
+            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="시흥 거모지구 대방 엘리움 한시적 특별혜택안내-image1" />
 
             <div className={styles.readyContainer}>
            

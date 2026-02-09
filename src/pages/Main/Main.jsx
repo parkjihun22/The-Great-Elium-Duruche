@@ -52,7 +52,7 @@ const section3Contents = [
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
     text1: `쾌적한 단지 스케일`,
-    text2: `총 682세대 시흥 거모지구 대방 엘리움 더 루체<br/>
+    text2: `총 682세대 시흥 거모지구 대방 엘리움<br/>
             지하 2층~지상 최고 23층 단지 구성`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
@@ -222,7 +222,7 @@ const Main = () => {
 
         <meta
           name="description"
-          content="시흥 거모지구 대방 엘리움 더 루체 분양중. 모집공고, 자금조달계획서, 평면도(84·122), E-모델하우스(VR), 방문예약 및 관심고객등록을 공식 홈페이지에서 확인하세요."
+          content="시흥 거모지구 대방 엘리움 분양중. 모집공고, 자금조달계획서, 평면도(84·122), E-모델하우스(VR), 방문예약 및 관심고객등록을 공식 홈페이지에서 확인하세요."
         />
 
         <link rel="canonical" href="https://www.dwbsongs.com/" />
@@ -230,8 +230,8 @@ const Main = () => {
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움" />
         <meta
           property="og:description"
           content="모집공고·평면도·E-모델하우스·방문예약을 공식 홈페이지에서 확인하세요."
@@ -274,7 +274,7 @@ const Main = () => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="시흥 거모지구 대방 엘리움 더 루체-mainimage1"
+              alt="시흥 거모지구 대방 엘리움-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
@@ -287,7 +287,7 @@ const Main = () => {
               <div className={styles.mainImageText}>거모지구가 기대한 새로운 주거 기준</div>
               <div className={styles.mainImageLine}></div>
               <div className={styles.mainImageText}>
-                시흥 거모지구 대방 엘리움 더 루체
+                시흥 거모지구 대방 엘리움
               </div>
 
 
@@ -301,7 +301,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="시흥 거모지구 대방 엘리움 더 루체관심고객등록"
+                    alt="시흥 거모지구 대방 엘리움관심고객등록"
                     loading="lazy"
                     decoding="async"
                   />
@@ -316,7 +316,7 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.text1}>Location</div>
                 <div className={styles.text2}>
-                  시흥 거모지구 대방 엘리움 더 루체 POINT
+                  시흥 거모지구 대방 엘리움 POINT
                 </div>
                 <div className={styles.text3}>
                   - 거모지구 중심 입지, 수도권 주요 도심으로 이어지는 광역 접근성<br />
@@ -343,7 +343,7 @@ const Main = () => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="시흥 거모지구 대방 엘리움 더 루체브랜드소개-image2"
+                  alt="시흥 거모지구 대방 엘리움브랜드소개-image2"
                   loading="lazy"
                   decoding="async"
                 />
@@ -362,7 +362,7 @@ const Main = () => {
                   <br />
                   <span>
                     최고의 브랜드 아파트 <br />
-                    시흥 거모지구 대방 엘리움 더 루체
+                    시흥 거모지구 대방 엘리움
                   </span>
                 </div>
                 <div className={styles.subTitle}>
@@ -370,13 +370,13 @@ const Main = () => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    시흥 거모지구 대방 엘리움 더 루체가 함께합니다
+                    시흥 거모지구 대방 엘리움가 함께합니다
                   </div>
                 </div>
               </div>
               <img
                 src={section8Img3}
-                alt="시흥 거모지구 대방 엘리움 더 루체입지환경소개-image2"
+                alt="시흥 거모지구 대방 엘리움입지환경소개-image2"
                 loading="lazy"
                 decoding="async"
               />
@@ -392,7 +392,7 @@ const Main = () => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  시흥 거모지구 대방 엘리움 더 루체에서 펼쳐집니다
+                  시흥 거모지구 대방 엘리움에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -412,7 +412,7 @@ const Main = () => {
               </div>
               <img
                 src={section2_Image1}
-                alt="시흥 거모지구 대방 엘리움 더 루체아파트 조감도-image3"
+                alt="시흥 거모지구 대방 엘리움아파트 조감도-image3"
                 loading="lazy"
                 decoding="async"
               />
@@ -446,11 +446,11 @@ const Main = () => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt="시흥 거모지구 대방 엘리움 더 루체브랜드소개-image4"
+                  alt="시흥 거모지구 대방 엘리움브랜드소개-image4"
                   loading="lazy"
                   decoding="async"
                 />
-                <div className={styles.text1}>시흥 거모지구 대방 엘리움 더 루체</div>
+                <div className={styles.text1}>시흥 거모지구 대방 엘리움</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>
                   당신의 삶, 그 고귀함이 계속되길
@@ -472,7 +472,7 @@ const Main = () => {
             {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
             <div className={styles.pcTitleRow}>
               <div className={styles.leftTitle}>
-                <h2>시흥 거모지구 대방 엘리움 더 루체</h2>
+                <h2>시흥 거모지구 대방 엘리움</h2>
                 <p>방문예약</p>
               </div>
               <div className={styles.rightText}>
@@ -542,7 +542,7 @@ const Main = () => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  시흥 거모지구 대방 엘리움 더 루체
+                  시흥 거모지구 대방 엘리움
                   <br />
                   <span>견본주택 오시는길</span>
                 </div>
@@ -551,11 +551,11 @@ const Main = () => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    시흥 거모지구 대방 엘리움 더 루체가 함께합니다
+                    시흥 거모지구 대방 엘리움가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="시흥 거모지구 대방 엘리움 더 루체오시는길안내-image1" />
+              <img src={map1} alt="시흥 거모지구 대방 엘리움오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -609,7 +609,7 @@ const Main = () => {
             <img
               src={mobileImageMain}
               className={styles.mainImage}
-              alt="시흥 거모지구 대방 엘리움 더 루체mobilemain-image1"
+              alt="시흥 거모지구 대방 엘리움mobilemain-image1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
@@ -622,7 +622,7 @@ const Main = () => {
             </div>
             <div className={styles.mainImageTitleBox1}>
               <div className={styles.mainImageText1}>
-                시흥 거모지구 대방 엘리움 더 루체
+                시흥 거모지구 대방 엘리움
               </div>
 
 
@@ -634,7 +634,7 @@ const Main = () => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-                  시흥 거모지구 대방 엘리움 더 루체 POINT
+                  시흥 거모지구 대방 엘리움 POINT
                 </div>
                 <div className={styles.text3}>
                 - 거모지구 중심 입지, 수도권 주요 도심으로 이어지는 광역 접근성<br />
@@ -685,13 +685,13 @@ const Main = () => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  시흥 거모지구 대방 엘리움 더 루체가 함께합니다
+                  시흥 거모지구 대방 엘리움가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="시흥 거모지구 대방 엘리움 더 루체모바일 입지안내 이미지"
+              alt="시흥 거모지구 대방 엘리움모바일 입지안내 이미지"
               loading="lazy"
               decoding="async"
             />
@@ -705,19 +705,19 @@ const Main = () => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                시흥 거모지구 대방 엘리움 더 루체에서 펼쳐집니다
+                시흥 거모지구 대방 엘리움에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 <br /> 시흥 거모지구 대방 엘리움 더 루체에서<br />
+                프리미엄 주거라이프를 <br /> 시흥 거모지구 대방 엘리움에서<br />
                 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="시흥 거모지구 대방 엘리움 더 루체모바일 조감도 이미지"
+              alt="시흥 거모지구 대방 엘리움모바일 조감도 이미지"
               loading="lazy"
               decoding="async"
             />
@@ -751,7 +751,7 @@ const Main = () => {
             <div>
               <img
                 src={section1_Image1}
-                alt="시흥 거모지구 대방 엘리움 더 루체브랜드소개 mobile-image5"
+                alt="시흥 거모지구 대방 엘리움브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -762,7 +762,7 @@ const Main = () => {
 
             {/* 모바일 방문예약 섹션 */}
             <div className={styles.mobileVisitContainer}>
-              <h2>시흥 거모지구 대방 엘리움 더 루체</h2>
+              <h2>시흥 거모지구 대방 엘리움</h2>
               <p className={styles.mobileSubTitle}>방문예약</p>
               <p className={styles.mobileInfoText}>
                 방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -829,7 +829,7 @@ const Main = () => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt="시흥 거모지구 대방 엘리움 더 루체오시는길안내-mobileimage2"
+                alt="시흥 거모지구 대방 엘리움오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

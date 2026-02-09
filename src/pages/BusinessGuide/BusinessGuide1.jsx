@@ -15,7 +15,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-  { label: '사업명', value: '시흥 거모지구 대방 엘리움 더 루체' },
+  { label: '사업명', value: '시흥 거모지구 대방 엘리움' },
   { label: '사업위치', value: '경기도 시흥시 거모지구 일원' },
   { label: '대지면적', value: '추후 공지' },
   { label: '건축면적', value: '추후 공지' },
@@ -62,18 +62,18 @@ const BusinessGuide1 = () => {
 		<div className={styles.container}>
       <Helmet>
         {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-        <title>시흥 거모지구 대방 엘리움 더 루체 - 사업안내</title>
+        <title>시흥 거모지구 대방 엘리움 - 사업안내</title>
         <meta
           name="description"
-          content="경기도 시흥시 거모동 시흥거모 공공주택지구 S-2BL·B-2BL에 들어서는 시흥 거모지구 대방 엘리움 더 루체의 사업 개요를 확인하세요. 총 682세대(지하 2층~지상 최고 23층), 전용 84·122㎡ 구성, 입지·규모·타입 정보 안내."
+          content="경기도 시흥시 거모동 시흥거모 공공주택지구 S-2BL·B-2BL에 들어서는 시흥 거모지구 대방 엘리움의 사업 개요를 확인하세요. 총 682세대(지하 2층~지상 최고 23층), 전용 84·122㎡ 구성, 입지·규모·타입 정보 안내."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.cssdesign.kr/BusinessGuide/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 사업안내" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 사업안내" />
         <meta
           property="og:description"
           content="거모지구의 계획도시 주거환경과 미래가치, 총 682세대 프리미엄 단지. 위치·규모·타입 구성 정보를 한눈에 확인하세요."
@@ -85,10 +85,10 @@ const BusinessGuide1 = () => {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - 사업안내" />
+        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - 사업안내" />
         <meta
           name="twitter:description"
-          content="시흥 거모지구 대방 엘리움 더 루체 사업 개요: 총 682세대, 전용 84·122㎡ 구성, 거모지구 입지와 규모·타입 정보 안내."
+          content="시흥 거모지구 대방 엘리움 사업 개요: 총 682세대, 전용 84·122㎡ 구성, 거모지구 입지와 규모·타입 정보 안내."
         />
         <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/business.jpg" />
         <meta name="twitter:url" content="https://www.cssdesign.kr/BusinessGuide/intro" />
@@ -98,10 +98,10 @@ const BusinessGuide1 = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "시흥 거모지구 대방 엘리움 더 루체 - 사업안내",
+            "name": "시흥 거모지구 대방 엘리움 - 사업안내",
             "url": "https://www.cssdesign.kr/BusinessGuide/intro",
             "description":
-              "경기도 시흥시 거모동 시흥거모 공공주택지구에 조성되는 시흥 거모지구 대방 엘리움 더 루체의 사업 개요와 위치, 규모, 타입 구성 정보를 제공합니다.",
+              "경기도 시흥시 거모동 시흥거모 공공주택지구에 조성되는 시흥 거모지구 대방 엘리움의 사업 개요와 위치, 규모, 타입 구성 정보를 제공합니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.cssdesign.kr/img/og/business.jpg",
@@ -128,11 +128,11 @@ const BusinessGuide1 = () => {
 
 {/* SEO 최적화 H1 */}
 <h1 className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체 - 사업안내
+  시흥 거모지구 대방 엘리움 - 사업안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  시흥 거모지구 대방 엘리움 더 루체는 거모지구 계획도시 인프라와 쾌적한 주거환경을 바탕으로
+  시흥 거모지구 대방 엘리움는 거모지구 계획도시 인프라와 쾌적한 주거환경을 바탕으로
   완성되는 프리미엄 주거 단지입니다. 이 페이지에서는 위치와 규모, 전용
   84·122㎡ 타입 구성과 단지 특화, 생활 인프라 등
   사업의 핵심 정보를 안내합니다.
@@ -140,14 +140,14 @@ const BusinessGuide1 = () => {
 
 <div className={styles.textBox}>
   <div>거모지구의 새로운 주거 기준</div>
-  <div>시흥 거모지구 대방 엘리움 더 루체, 일상에 완성도를 더합니다.</div>
+  <div>시흥 거모지구 대방 엘리움, 일상에 완성도를 더합니다.</div>
 </div>
 
 
 
 
 
-			<img className={styles.img3} src={page1} alt="시흥 거모지구 대방 엘리움 더 루체-image1"/>
+			<img className={styles.img3} src={page1} alt="시흥 거모지구 대방 엘리움-image1"/>
 
 			<div className={styles.tableContainer}>
 				{!isMobile && <img className={styles.tableImg} src={tableImage} />}

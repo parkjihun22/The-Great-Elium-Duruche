@@ -45,12 +45,12 @@ const contents = (text, isLoaded) => {
     text === '홍보영상' ||
     text === '체크포인트' ||
     text === '계약서류안내' ||
-    text === '시흥 거모지구 대방 엘리움 더 루체'
+    text === '시흥 거모지구 대방 엘리움'
   ) {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          거모지구 중심 입지에서 누리는 신도시 프리미엄, 시흥 거모지구 대방 엘리움 더 루체.
+          거모지구 중심 입지에서 누리는 신도시 프리미엄, 시흥 거모지구 대방 엘리움.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           수변공원과 단지 인접 녹지, 계획된 중심상업시설을 가까이 누리는 쾌적한 주거환경.
@@ -82,7 +82,7 @@ const contents = (text, isLoaded) => {
           전용 84㎡·122㎡ 중심의 4베이 평면과 특화 설계로 쾌적한 라이프스타일을 제안합니다.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          시흥 거모지구 대방 엘리움 더 루체
+          시흥 거모지구 대방 엘리움
         </div>
       </>
     );
@@ -107,7 +107,7 @@ const contents = (text, isLoaded) => {
           피트니스·골프연습장·작은도서관·키즈존 등 다양한 커뮤니티 시설로 일상을 풍성하게.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          시흥 거모지구 대방 엘리움 더 루체, 거모지구의 새로운 주거 기준을 제시합니다.
+          시흥 거모지구 대방 엘리움, 거모지구의 새로운 주거 기준을 제시합니다.
         </div>
       </>
     );

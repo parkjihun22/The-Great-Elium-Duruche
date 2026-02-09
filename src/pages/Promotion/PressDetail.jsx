@@ -45,7 +45,7 @@ export default function PressDetail() {
       <Bener />
       <MenuBar
         contents={[
-          { title: "언론보도", url: `/시흥 거모지구 대방 엘리움 더 루체/press` },
+          { title: "언론보도", url: `/시흥 거모지구 대방 엘리움/press` },
           { title: "방문예약등록", url: `/purgio/customer` },
         ]}
       />

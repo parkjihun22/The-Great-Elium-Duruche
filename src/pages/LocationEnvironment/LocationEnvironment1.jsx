@@ -46,7 +46,7 @@ const LocationSection = [
   },
   {
     img: section2Image5,
-    titleText: "쾌적한 단지 스케일<br />총 682세대 시흥 거모지구 대방 엘리움 더 루체",
+    titleText: "쾌적한 단지 스케일<br />총 682세대 시흥 거모지구 대방 엘리움",
     contentText:
       "지하 2층~지상 최고 23층 단지 구성<br />여유로운 동간 거리로 완성한 주거 가치",
   },
@@ -94,21 +94,21 @@ const LocationEnvironment1 = () => {
     <div className={styles.container}>
       <Helmet>
         {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-        <title>시흥 거모지구 대방 엘리움 더 루체 - 입지환경</title>
+        <title>시흥 거모지구 대방 엘리움 - 입지환경</title>
         <meta
           name="description"
-          content="거모지구 핵심 입지, 시흥 거모지구 대방 엘리움 더 루체의 입지환경을 확인하세요. 확장되는 광역 교통망과 생활 인프라, 단지 인접 공원·수변 녹지 등 쾌적한 자연 환경까지 한 번에 누립니다."
+          content="거모지구 핵심 입지, 시흥 거모지구 대방 엘리움의 입지환경을 확인하세요. 확장되는 광역 교통망과 생활 인프라, 단지 인접 공원·수변 녹지 등 쾌적한 자연 환경까지 한 번에 누립니다."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.cssdesign.kr/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 입지환경" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 입지환경" />
         <meta
           property="og:description"
-          content="거모지구 프리미엄 입지: 확장되는 교통망과 생활 인프라, 공원·수변 녹지 환경을 모두 갖춘 시흥 거모지구 대방 엘리움 더 루체."
+          content="거모지구 프리미엄 입지: 확장되는 교통망과 생활 인프라, 공원·수변 녹지 환경을 모두 갖춘 시흥 거모지구 대방 엘리움."
         />
         <meta property="og:url" content="https://www.cssdesign.kr/LocationEnvironment/intro" />
         <meta property="og:image" content="https://www.cssdesign.kr/img/og/location.jpg" />
@@ -117,7 +117,7 @@ const LocationEnvironment1 = () => {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - 입지환경" />
+        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - 입지환경" />
         <meta
           name="twitter:description"
           content="확장되는 교통망, 생활 인프라, 공원·수변 녹지까지 함께 누리는 거모지구 입지."
@@ -130,10 +130,10 @@ const LocationEnvironment1 = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "시흥 거모지구 대방 엘리움 더 루체 - 입지환경",
+            "name": "시흥 거모지구 대방 엘리움 - 입지환경",
             "url": "https://www.cssdesign.kr/LocationEnvironment/intro",
             "description":
-              "거모지구 핵심 입지, 확장되는 교통망과 생활 인프라, 단지 인접 공원·수변 녹지 등 쾌적한 자연 환경을 갖춘 시흥 거모지구 대방 엘리움 더 루체의 입지환경.",
+              "거모지구 핵심 입지, 확장되는 교통망과 생활 인프라, 단지 인접 공원·수변 녹지 등 쾌적한 자연 환경을 갖춘 시흥 거모지구 대방 엘리움의 입지환경.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.cssdesign.kr/img/og/location.jpg",
@@ -160,10 +160,10 @@ const LocationEnvironment1 = () => {
 
       {/* SEO 최적화 */}
       <h1 className={styles.screenReaderOnly}>
-        시흥 거모지구 대방 엘리움 더 루체 - 입지안내
+        시흥 거모지구 대방 엘리움 - 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        시흥 거모지구 대방 엘리움 더 루체의 입지 정보를 확인하세요.
+        시흥 거모지구 대방 엘리움의 입지 정보를 확인하세요.
         확장되는 광역 교통망을 통한 수도권 접근성과
         생활 편의시설 이용이 편리한 인프라,
         단지 인접 공원과 수변 녹지 공간이 더하는 쾌적한 자연 환경까지
@@ -173,13 +173,13 @@ const LocationEnvironment1 = () => {
       <div className={styles.textBox}>
         <div>갈수록 완성되는 거모지구</div>
         <div>살수록 높아지는 프리미엄 가치</div>
-        <div>도시의 기준이 되는 주거, 시흥 거모지구 대방 엘리움 더 루체</div>
+        <div>도시의 기준이 되는 주거, 시흥 거모지구 대방 엘리움</div>
       </div>
 
       <img
         src={page1}
         className={styles.image2}
-        alt="시흥 거모지구 대방 엘리움 더 루체입지환경-image1"
+        alt="시흥 거모지구 대방 엘리움입지환경-image1"
       />
 
       <div className={styles.section2}>
@@ -194,7 +194,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 시흥 거모지구 대방 엘리움 더 루체사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 시흥 거모지구 대방 엘리움사업주체 및 시공사와 무관합니다.
         </div>
       </div>
 

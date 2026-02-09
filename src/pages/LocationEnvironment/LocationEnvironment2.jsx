@@ -46,10 +46,10 @@ const LocationEnvironment1 = () => {
   return (
     <div className={styles.container}>
     <Helmet>
-      <title>시흥 거모지구 대방 엘리움 더 루체 - 프리미엄</title>
+      <title>시흥 거모지구 대방 엘리움 - 프리미엄</title>
       <meta
         name="description"
-        content="시흥 거모지구 대방 엘리움 더 루체의 프리미엄을 확인하세요. 총 682세대 쾌적한 단지 구성, 거모지구 중심 입지, 확장되는 교통망과 생활 인프라, 자연과 어우러진 주거 환경으로 완성되는 가치."
+        content="시흥 거모지구 대방 엘리움의 프리미엄을 확인하세요. 총 682세대 쾌적한 단지 구성, 거모지구 중심 입지, 확장되는 교통망과 생활 인프라, 자연과 어우러진 주거 환경으로 완성되는 가치."
       />
       <link rel="canonical" href="https://www.cssdesign.kr/LocationEnvironment/primium" />
       <meta name="robots" content="index,follow" />
@@ -64,10 +64,10 @@ const LocationEnvironment1 = () => {
 
     {/* SEO 최적화 */}
     <h1 className={styles.screenReaderOnly}>
-      시흥 거모지구 대방 엘리움 더 루체 - 프리미엄
+      시흥 거모지구 대방 엘리움 - 프리미엄
     </h1>
     <p className={styles.screenReaderOnly}>
-      시흥 거모지구 대방 엘리움 더 루체만의 프리미엄을 만나보세요.
+      시흥 거모지구 대방 엘리움만의 프리미엄을 만나보세요.
       삶의 동선과 일상을 고려한 단지 설계와 쾌적한 스케일,
       거모지구의 중심 입지와 확장되는 생활 인프라,
       자연이 더해진 주거 환경으로 일상의 품격을 한 단계 높입니다.
@@ -75,7 +75,7 @@ const LocationEnvironment1 = () => {
 
     <div className={styles.textBox}>
       <div>거모지구의 새로운 프리미엄 기준</div>
-      <div>시흥 거모지구 대방 엘리움 더 루체의 가치를 경험하세요.</div>
+      <div>시흥 거모지구 대방 엘리움의 가치를 경험하세요.</div>
     </div>
 
 
@@ -84,7 +84,7 @@ const LocationEnvironment1 = () => {
       <img
         src={page1}
         className={styles.image3}
-        alt="시흥 거모지구 대방 엘리움 더 루체-image1"
+        alt="시흥 거모지구 대방 엘리움-image1"
       />
 
       <Footer />

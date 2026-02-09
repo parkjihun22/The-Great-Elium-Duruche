@@ -63,7 +63,7 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       <div className={styles.textBox}>
       <div>거모지구의 새로운 주거 기준</div>
-      <div>시흥 거모지구 대방 엘리움 더 루체가 자부심으로 완성됩니다.</div>
+      <div>시흥 거모지구 대방 엘리움가 자부심으로 완성됩니다.</div>
       </div>
 
 
@@ -71,7 +71,7 @@ const Interior2 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="시흥 거모지구 대방 엘리움 더 루체 인테리어 안내 이미지2"
+				alt="시흥 거모지구 대방 엘리움 인테리어 안내 이미지2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

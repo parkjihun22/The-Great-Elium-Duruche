@@ -67,18 +67,18 @@ export default function Customer() {
     <>
       <Helmet>
         {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-        <title>시흥 거모지구 대방 엘리움 더 루체 - 관심고객등록</title>
+        <title>시흥 거모지구 대방 엘리움 - 관심고객등록</title>
         <meta
           name="description"
-          content="시흥 거모지구 대방 엘리움 더 루체 관심고객 등록 시 모델하우스 오픈·방문예약, 청약 일정, 현장 위치 등 최신 정보를 가장 먼저 받아보실 수 있습니다."
+          content="시흥 거모지구 대방 엘리움 관심고객 등록 시 모델하우스 오픈·방문예약, 청약 일정, 현장 위치 등 최신 정보를 가장 먼저 받아보실 수 있습니다."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.cssdesign.kr/Promotion/Customer" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - 관심고객등록" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움 - 관심고객등록" />
         <meta
           property="og:description"
           content="관심고객 등록으로 모델하우스 방문예약, 청약·분양 일정, 현장 위치 등 주요 안내를 우선 받아보세요."
@@ -90,7 +90,7 @@ export default function Customer() {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - 관심고객등록" />
+        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - 관심고객등록" />
         <meta
           name="twitter:description"
           content="모델하우스 방문예약, 청약 일정, 현장 위치 등 최신 소식을 가장 먼저 받아보세요."
@@ -103,10 +103,10 @@ export default function Customer() {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "시흥 거모지구 대방 엘리움 더 루체 - 관심고객등록",
+            "name": "시흥 거모지구 대방 엘리움 - 관심고객등록",
             "url": "https://www.cssdesign.kr/Promotion/Customer",
             "description":
-              "시흥 거모지구 대방 엘리움 더 루체 관심고객 등록 시 모델하우스 방문예약, 청약 일정, 현장 위치 등 주요 정보를 우선 제공해 드립니다.",
+              "시흥 거모지구 대방 엘리움 관심고객 등록 시 모델하우스 방문예약, 청약 일정, 현장 위치 등 주요 정보를 우선 제공해 드립니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.cssdesign.kr/img/og/customer.jpg",
@@ -131,7 +131,7 @@ export default function Customer() {
       <FixIcon />
 
       {/* 배너 */}
-      <Bener title="시흥 거모지구 대방 엘리움 더 루체" />
+      <Bener title="시흥 거모지구 대방 엘리움" />
 
       {/* 네비게이션 탭 */}
       <MenuBar contents={promoMenu} />
@@ -141,7 +141,7 @@ export default function Customer() {
         {/* ─── 좌측 카드 ─── */}
         <div className={styles.customerLeft}>
           <div className={styles.textBlock}>
-            <h2 className={styles.projectName}>시흥 거모지구 대방 엘리움 더 루체</h2>
+            <h2 className={styles.projectName}>시흥 거모지구 대방 엘리움</h2>
             <h3 className={styles.pageTitle}>방문예약등록</h3>
           </div>
           <img

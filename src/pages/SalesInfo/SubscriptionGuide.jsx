@@ -54,10 +54,10 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
     <Helmet>
-      <title>시흥 거모지구 대방 엘리움 더 루체 - 청약안내</title>
+      <title>시흥 거모지구 대방 엘리움 - 청약안내</title>
       <meta
         name="description"
-        content="시흥 거모지구 대방 엘리움 더 루체 청약안내를 한눈에 확인하세요. 특별공급·1·2순위 청약 일정, 자격요건, 필요서류와 인터넷 청약 절차를 안내합니다."
+        content="시흥 거모지구 대방 엘리움 청약안내를 한눈에 확인하세요. 특별공급·1·2순위 청약 일정, 자격요건, 필요서류와 인터넷 청약 절차를 안내합니다."
       />
       <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/SubscriptionGuide" />
       <meta name="robots" content="index,follow" />
@@ -72,17 +72,17 @@ const ComplexGuide1 = () => {
 
     {/* SEO 최적화 */}
     <h1 className={styles.screenReaderOnly}>
-      시흥 거모지구 대방 엘리움 더 루체 - 청약안내
+      시흥 거모지구 대방 엘리움 - 청약안내
     </h1>
     <p className={styles.screenReaderOnly}>
-      시흥 거모지구 대방 엘리움 더 루체의 인터넷 청약 절차를 안내합니다.
+      시흥 거모지구 대방 엘리움의 인터넷 청약 절차를 안내합니다.
       특별공급 및 1·2순위 접수 전 자격요건과 필요서류를 확인하고,
       단계별 청약 절차를 따라 정확하고 편리하게 신청하세요.
     </p>
 
     <div className={styles.textBox}>
       <div>인터넷 청약 절차를 확인하세요</div>
-      <div>시흥 거모지구 대방 엘리움 더 루체, 소중한 기회를 놓치지 마세요</div>
+      <div>시흥 거모지구 대방 엘리움, 소중한 기회를 놓치지 마세요</div>
     </div>
 
 
@@ -90,7 +90,7 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="시흥 거모지구 대방 엘리움 더 루체청약제도 변경안내 이미지1"
+        alt="시흥 거모지구 대방 엘리움청약제도 변경안내 이미지1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       /> */}
 

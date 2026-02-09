@@ -46,21 +46,21 @@ const Emodel = () => {
     <div className={styles.container}>
       <Helmet>
         {/* 핵심 SEO 페이지: E-모델하우스 */}
-        <title>시흥 거모지구 대방 엘리움 더 루체 - E-모델하우스</title>
+        <title>시흥 거모지구 대방 엘리움 - E-모델하우스</title>
         <meta
           name="description"
-          content="시흥 거모지구 대방 엘리움 더 루체 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 전용 84·122㎡ 세대별 평면도, 인테리어를 실감 나게 확인하실 수 있습니다."
+          content="시흥 거모지구 대방 엘리움 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 전용 84·122㎡ 세대별 평면도, 인테리어를 실감 나게 확인하실 수 있습니다."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.cssdesign.kr/FloorPlan/Emodel" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움 더 루체" />
-        <meta property="og:title" content="시흥 거모지구 대방 엘리움 더 루체 - E-모델하우스" />
+        <meta property="og:site_name" content="시흥 거모지구 대방 엘리움" />
+        <meta property="og:title" content="시흥 거모지구 대방 엘리움 - E-모델하우스" />
         <meta
           property="og:description"
-          content="시흥 거모지구 대방 엘리움 더 루체 E-모델하우스: VR 투어와 세대별 평면도·인테리어를 통해 실제 같은 공간을 체험하세요."
+          content="시흥 거모지구 대방 엘리움 E-모델하우스: VR 투어와 세대별 평면도·인테리어를 통해 실제 같은 공간을 체험하세요."
         />
         <meta property="og:url" content="https://www.cssdesign.kr/FloorPlan/Emodel" />
         <meta property="og:image" content="https://www.cssdesign.kr/img/og/emodel.jpg" />
@@ -69,10 +69,10 @@ const Emodel = () => {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 더 루체 - E-모델하우스" />
+        <meta name="twitter:title" content="시흥 거모지구 대방 엘리움 - E-모델하우스" />
         <meta
           name="twitter:description"
-          content="시흥 거모지구 대방 엘리움 더 루체 E-모델하우스를 온라인으로 체험하세요. VR 투어와 전용 84·122㎡ 평면도, 인테리어를 한눈에."
+          content="시흥 거모지구 대방 엘리움 E-모델하우스를 온라인으로 체험하세요. VR 투어와 전용 84·122㎡ 평면도, 인테리어를 한눈에."
         />
         <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/emodel.jpg" />
         <meta name="twitter:url" content="https://www.cssdesign.kr/FloorPlan/Emodel" />
@@ -82,10 +82,10 @@ const Emodel = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "시흥 거모지구 대방 엘리움 더 루체 - E-모델하우스",
+            "name": "시흥 거모지구 대방 엘리움 - E-모델하우스",
             "url": "https://www.cssdesign.kr/FloorPlan/Emodel",
             "description":
-              "시흥 거모지구 대방 엘리움 더 루체 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 전용 84·122㎡ 세대별 평면도를 확인할 수 있습니다.",
+              "시흥 거모지구 대방 엘리움 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 전용 84·122㎡ 세대별 평면도를 확인할 수 있습니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.cssdesign.kr/img/og/emodel.jpg",
@@ -111,7 +111,7 @@ const Emodel = () => {
       <Bener title="E-모델하우스" />
       <MenuBar contents={menuContents} />
 
-      <h1 className={styles.screenReaderOnly}>시흥 거모지구 대방 엘리움 더 루체- E-모델하우스</h1>
+      <h1 className={styles.screenReaderOnly}>시흥 거모지구 대방 엘리움- E-모델하우스</h1>
 
       <div className={styles.tabMenu}>
         {menuContents.slice(0, 5).map((tab, idx) => (
